@@ -10,7 +10,7 @@ Details on this algorithm can be find in the following book chapter:
 
 # RAP.py
 This is a simple example for LP formulation with Gurobi-Python
-This problem is called Resource Assignment Problem (RAP)
+This problem is called Resource Assignment Problem (RAP). 
 This code is entirely based on the following link:
     https://www.gurobi.com/resource/tutorial-mixed-integer-linear-programming/
     
